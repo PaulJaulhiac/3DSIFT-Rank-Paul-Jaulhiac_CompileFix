@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfeat_common.a CMakeFiles/feat_common.dir/FeatureIOnifti.cpp.o CMakeFiles/feat_common.dir/featMatchUtilities.cpp.o
+/usr/bin/ranlib libfeat_common.a

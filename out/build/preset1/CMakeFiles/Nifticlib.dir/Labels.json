@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/CMakeFiles/Nifticlib"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/CMakeFiles/Nifticlib.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/CMakeFiles/Nifticlib-complete.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/Nifticlib-prefix/src/Nifticlib-stamp/Nifticlib-build.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/Nifticlib-prefix/src/Nifticlib-stamp/Nifticlib-configure.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/Nifticlib-prefix/src/Nifticlib-stamp/Nifticlib-download.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/Nifticlib-prefix/src/Nifticlib-stamp/Nifticlib-install.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/Nifticlib-prefix/src/Nifticlib-stamp/Nifticlib-mkdir.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/Nifticlib-prefix/src/Nifticlib-stamp/Nifticlib-patch.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/Nifticlib-prefix/src/Nifticlib-stamp/Nifticlib-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Nifticlib"
+		],
+		"name" : "Nifticlib"
+	}
+}

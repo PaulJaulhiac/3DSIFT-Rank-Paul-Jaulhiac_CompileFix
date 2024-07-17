@@ -1,0 +1,3 @@
+repository='https://gitlab.com/slckr/flann'
+module=''
+tag='origin'

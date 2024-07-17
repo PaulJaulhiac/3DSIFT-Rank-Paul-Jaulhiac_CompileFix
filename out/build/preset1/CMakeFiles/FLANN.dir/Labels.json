@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/CMakeFiles/FLANN"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/CMakeFiles/FLANN.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/CMakeFiles/FLANN-complete.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/FLANN-prefix/src/FLANN-stamp/FLANN-build.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/FLANN-prefix/src/FLANN-stamp/FLANN-configure.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/FLANN-prefix/src/FLANN-stamp/FLANN-download.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/FLANN-prefix/src/FLANN-stamp/FLANN-install.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/FLANN-prefix/src/FLANN-stamp/FLANN-mkdir.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/FLANN-prefix/src/FLANN-stamp/FLANN-patch.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1/FLANN-prefix/src/FLANN-stamp/FLANN-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"FLANN"
+		],
+		"name" : "FLANN"
+	}
+}

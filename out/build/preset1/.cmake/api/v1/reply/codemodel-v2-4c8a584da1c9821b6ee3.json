@@ -1,0 +1,231 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "src_common",
+					"jsonFile" : "directory-src_common-Debug-0d8dc9a1db7c4b794a85.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "src_common",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "feat_common",
+					"jsonFile" : "directory-feat_common-Debug-1de253755002d5e03233.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "feat_common",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "featExtract",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-featExtract-Debug-6368d435335db73d210e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "featExtract",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "featMatchMultiple",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-featMatchMultiple-Debug-7324b9dcb038059677a3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "featMatchMultiple",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "3DSIFT",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "src_common",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "feat_common",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "featExtract",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "featMatchMultiple",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FLANN::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FLANN-Debug-1200e19666d6c25f7c72.json",
+					"name" : "FLANN",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Nifticlib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Nifticlib-Debug-e9a1db43388fb8d5741f.json",
+					"name" : "Nifticlib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Zlib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Zlib-Debug-3607e170c2f71acfbb1d.json",
+					"name" : "Zlib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "featExtract::@a6b9441cde3c0afb177b",
+					"jsonFile" : "target-featExtract-Debug-ee2e9daa58c0c008b450.json",
+					"name" : "featExtract",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "featMatchMultiple::@97e18b8c88ed1ef67d20",
+					"jsonFile" : "target-featMatchMultiple-Debug-63a85f56b14216b544fe.json",
+					"name" : "featMatchMultiple",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "feat_common::@231b5e6e036f273f44e4",
+					"jsonFile" : "target-feat_common-Debug-0c7a50a7fab0a71de3d6.json",
+					"name" : "feat_common",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "src_common::@48a09262115f0e1a3331",
+					"jsonFile" : "target-src_common-Debug-6660aa780d13a7f5f0dc.json",
+					"name" : "src_common",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/out/build/preset1",
+		"source" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

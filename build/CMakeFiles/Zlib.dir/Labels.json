@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/CMakeFiles/Zlib"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/CMakeFiles/Zlib.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/CMakeFiles/Zlib-complete.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/Zlib-prefix/src/Zlib-stamp/Zlib-build.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/Zlib-prefix/src/Zlib-stamp/Zlib-configure.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/Zlib-prefix/src/Zlib-stamp/Zlib-download.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/Zlib-prefix/src/Zlib-stamp/Zlib-install.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/Zlib-prefix/src/Zlib-stamp/Zlib-mkdir.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/Zlib-prefix/src/Zlib-stamp/Zlib-patch.rule"
+		},
+		{
+			"file" : "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/Zlib-prefix/src/Zlib-stamp/Zlib-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Zlib"
+		],
+		"name" : "Zlib"
+	}
+}

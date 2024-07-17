@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/src_common",
+  "command": "/usr/bin/g++  -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common  -fopenmp -g -std=c++11 -o CMakeFiles/src_common.dir/FeatureIO.cpp.o -c /home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/FeatureIO.cpp",
+  "file": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/FeatureIO.cpp"
+},
+{
+  "directory": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/src_common",
+  "command": "/usr/bin/g++  -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common  -fopenmp -g -std=c++11 -o CMakeFiles/src_common.dir/GaussBlur3D.cpp.o -c /home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/GaussBlur3D.cpp",
+  "file": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/GaussBlur3D.cpp"
+},
+{
+  "directory": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/src_common",
+  "command": "/usr/bin/g++  -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common  -fopenmp -g -std=c++11 -o CMakeFiles/src_common.dir/GaussianMask.cpp.o -c /home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/GaussianMask.cpp",
+  "file": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/GaussianMask.cpp"
+},
+{
+  "directory": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/src_common",
+  "command": "/usr/bin/g++  -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common  -fopenmp -g -std=c++11 -o CMakeFiles/src_common.dir/GenericImage.cpp.o -c /home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/GenericImage.cpp",
+  "file": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/GenericImage.cpp"
+},
+{
+  "directory": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/src_common",
+  "command": "/usr/bin/g++  -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common  -fopenmp -g -std=c++11 -o CMakeFiles/src_common.dir/LocationValue.cpp.o -c /home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/LocationValue.cpp",
+  "file": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/LocationValue.cpp"
+},
+{
+  "directory": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/src_common",
+  "command": "/usr/bin/g++  -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common  -fopenmp -g -std=c++11 -o CMakeFiles/src_common.dir/MultiScale.cpp.o -c /home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/MultiScale.cpp",
+  "file": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/MultiScale.cpp"
+},
+{
+  "directory": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/src_common",
+  "command": "/usr/bin/g++  -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common  -fopenmp -g -std=c++11 -o CMakeFiles/src_common.dir/PpImage.cpp.o -c /home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/PpImage.cpp",
+  "file": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/PpImage.cpp"
+},
+{
+  "directory": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/src_common",
+  "command": "/usr/bin/g++  -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common  -fopenmp -g -std=c++11 -o CMakeFiles/src_common.dir/PpImageFloatOutput.cpp.o -c /home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/PpImageFloatOutput.cpp",
+  "file": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/PpImageFloatOutput.cpp"
+},
+{
+  "directory": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/src_common",
+  "command": "/usr/bin/g++  -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common  -fopenmp -g -std=c++11 -o CMakeFiles/src_common.dir/TextFile.cpp.o -c /home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/TextFile.cpp",
+  "file": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/TextFile.cpp"
+},
+{
+  "directory": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/src_common",
+  "command": "/usr/bin/g++  -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common  -fopenmp -g -std=c++11 -o CMakeFiles/src_common.dir/svdcmp.cpp.o -c /home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/svdcmp.cpp",
+  "file": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common/svdcmp.cpp"
+},
+{
+  "directory": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/feat_common",
+  "command": "/usr/bin/g++ -DFLANN_STATIC -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/deps/nifticlib-install/include/nifti -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/deps/FLANN-install/include -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/feat_common -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common  -fopenmp -g -std=c++11 -o CMakeFiles/feat_common.dir/FeatureIOnifti.cpp.o -c /home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/feat_common/FeatureIOnifti.cpp",
+  "file": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/feat_common/FeatureIOnifti.cpp"
+},
+{
+  "directory": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/feat_common",
+  "command": "/usr/bin/g++ -DFLANN_STATIC -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/deps/nifticlib-install/include/nifti -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/deps/FLANN-install/include -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/feat_common -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common  -fopenmp -g -std=c++11 -o CMakeFiles/feat_common.dir/featMatchUtilities.cpp.o -c /home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/feat_common/featMatchUtilities.cpp",
+  "file": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/feat_common/featMatchUtilities.cpp"
+},
+{
+  "directory": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/featExtract",
+  "command": "/usr/bin/g++ -DFLANN_STATIC -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/deps/nifticlib-install/include/nifti -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/deps/zlib-install/include -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/feat_common  -fopenmp -g -std=c++11 -o CMakeFiles/featExtract.dir/featExtract.cpp.o -c /home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/featExtract/featExtract.cpp",
+  "file": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/featExtract/featExtract.cpp"
+},
+{
+  "directory": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/featMatchMultiple",
+  "command": "/usr/bin/g++ -DFLANN_STATIC -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/deps/nifticlib-install/include/nifti -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/build/deps/FLANN-install/include -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/feat_common -I/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/src_common  -fopenmp -g -std=c++11 -o CMakeFiles/featMatchMultiple.dir/featMatchMultiple.cpp.o -c /home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/featMatchMultiple/featMatchMultiple.cpp",
+  "file": "/home/pauljaulhiac/Documents/3DSIFT-Rank-Paul-Jaulhiac_CompileFix/featMatchMultiple/featMatchMultiple.cpp"
+}
+]
