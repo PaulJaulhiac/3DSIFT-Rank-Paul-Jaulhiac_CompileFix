@@ -105,8 +105,8 @@ def get_orientation_transform(row, index):
     return transform
 
 def main():
-    key_file_path = os.path.expanduser('~/Documents/brain_no_nn/keyFiles/OAS1_0001_MR1_mpr_nn_anon_111_t88_masked_gfc.key')  # Path to your .key file
-    vtk_file_path = os.path.expanduser('~/Documents/brain_no_nn/visualization/3D_features/OAS1_0001_MR1_mpr_nn_anon_111_t88_masked_gfc.vtk')  # Output VTK file path
+    key_file_path = os.path.expanduser('~/PathToYourSourceFile.key')  # Path to your .key file
+    vtk_file_path = os.path.expanduser('~/PathToWhichTheOutputWillBeCreated.vtk')  # Output VTK file path
     data = read_key_file(key_file_path)
     create_vtk_from_data(data, vtk_file_path)
     print("VTP file has been created.")
